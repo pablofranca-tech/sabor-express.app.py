@@ -20,7 +20,7 @@ Biblioteca padrão do Python (sem dependências externas)
 
 Clone o repositório
 
-git clone https://github.com/SEU_USUARIO/restaurante-app.git
+git clone https://github.com/pablofranca-tech/restaurante-app.git
 cd restaurante-app
 
 
